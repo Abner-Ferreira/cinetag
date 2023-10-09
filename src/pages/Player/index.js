@@ -1,10 +1,9 @@
-import React, { useEffect, useState } from 'react';
-import styles from './player.module.css'
 import Banner from 'components/Banner';
 import Titulo from 'components/Titulo';
-import { useParams } from 'react-router-dom';
-import videos from 'json/db.json';
 import NaoEncontrada from 'pages/NaoEncontrada';
+import { useEffect, useState } from 'react';
+import { useParams } from 'react-router-dom';
+import styles from './player.module.css';
 // import { Container } from './styles';
 
 function Player() {
