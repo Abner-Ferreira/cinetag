@@ -4,7 +4,7 @@
 
 ## 📸 Project Preview
 
-![Cinetag Screenshot](./src/assets/cinetag-fullpage.png)  
+![Cinetag Screenshot](./public/imagens/cinetag-fullpage.png)  
 
 
 ## 🚀 Project Overview
